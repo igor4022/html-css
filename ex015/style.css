@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(225, 112, 112);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: aliceblue; background-color: black;
+}
+h2{
+    color: aliceblue;
+}
